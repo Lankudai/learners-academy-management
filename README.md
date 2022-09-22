@@ -14,7 +14,7 @@
  
  - Core Concept used in the Project
  
- - How to run an Application
+ - How to run the Application
 
 
 
@@ -84,6 +84,7 @@
 # Flowchart of the Application:
 
 
+
 # Core Concept used in the Project:
 
 • Object-Oriented: used to create and model objects for users and their credentials.
@@ -98,4 +99,17 @@
 
 • Cookies: to store log-in data on the client browser.
 
+# How to run the Application:
 
+
+• clone project
+
+• Import the “database\database.sql” file to your database administration tool.
+
+• Go to “\src\main\webapp\META-INF\context.xml” file and open it.
+
+• Edit the database’ properties such as username, password and driverClassName to be suit to your database administration tool.
+
+• Now run program on a server.
+
+• To login you must enter admin for both username and password.

@@ -84,6 +84,8 @@
 • Tomcat: to run and deploy servlet application.
 
 # Flowchart of the Application:
+ ![FLOWCHART2](https://user-images.githubusercontent.com/110302992/191812422-14552149-74ec-4584-af2c-bee9a3417a3d.jpg)
+
 
 
 

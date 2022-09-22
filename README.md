@@ -5,7 +5,7 @@
  - About the Project
  - Product Backlog
  - Software and tools used
- - 
+ - Flowcart of the Application
 
 # Aim of Project:
   This project aims to design and develop a backend administrative portal for the Learner’s Academy using Java EE technologies. The goal of this project is to apply servlet, jsp and JDBC concepts.
@@ -45,3 +45,24 @@
 9. Create a CSS file to format the contents.
 
 10.Debug and Test the project.
+
+
+# Software and tools used:
+
+• Servlet: to do the business logic and works a controller for the project.
+
+• JSP: to handle the presentation view.
+
+• SQL: to create and manage the database.
+
+• JDBC: to make operations on the database for the project.
+
+• CSS: to format the contents.
+
+• Eclipse: to write and run the code.
+
+• Tomcat: to run and deploy servlet application.
+
+# Flowchart of the Application:
+
+

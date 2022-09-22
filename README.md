@@ -5,22 +5,22 @@
   
 # Product Backlog:
 
-1.Create database and tables.
+1. Create database and tables.
 
-2.Connect the database to the project.
+2. Connect the database to the project.
 
-3.Create models classes.
+3. Create models classes.
 
-4.Create a database utility class to retrieve data.
+4. Create a database utility class to retrieve data.
 
-5.Create login page.
+5. Create login page.
 
-6.Create JSP files for all pages of the project.
+6. Create JSP files for all pages of the project.
 
-7.Create a servlet to get requests and send responses to the JSP files.
+7. Create a servlet to get requests and send responses to the JSP files.
 
-8.Add cookies.
+8. Add cookies.
 
-9.Create a CSS file to format the contents.
+9. Create a CSS file to format the contents.
 
 10.Debug and Test the project.

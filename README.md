@@ -16,7 +16,22 @@
  
  - How to run the Application
 
-  - Screenshots (OUTPUT)
+  - Screenshots (OUTPUT):
+ ![Screenshot (41)](https://user-images.githubusercontent.com/110302992/191816921-537e8c36-cc59-4315-a57d-7a598c30af96.png)
+
+![Screenshot (42)](https://user-images.githubusercontent.com/110302992/191816975-56be2540-f789-4e9a-851a-0dd71ef57516.png)
+
+![Screenshot (43)](https://user-images.githubusercontent.com/110302992/191817027-40813b48-6802-44ab-b197-205161544390.png)
+
+![Screenshot (44)](https://user-images.githubusercontent.com/110302992/191817115-620fb24e-fcae-4f3b-b95d-e635077296d5.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/110302992/191817194-77fb8fb2-6f00-44be-8bf7-a78e41452a78.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/110302992/191817293-f8461027-a407-43e1-bcf5-65d36dfafefd.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/110302992/191817378-442ed0d0-990d-47cc-b5fa-da08e36fd228.png)
+
+
 
 
 

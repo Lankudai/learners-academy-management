@@ -84,3 +84,18 @@
 # Flowchart of the Application:
 
 
+# Core Concept used in the Project:
+
+• Object-Oriented: used to create and model objects for users and their credentials.
+
+• Databases: used to store and retrieve data.
+
+• Data Sources: used to define a set of properties required to identify and access the database.
+
+• Collections: used some collections such arraylist to store collection of data.
+
+• Exception Handling: used to catch problems that arises in the code especially in I/O blocks.
+
+• Cookies: to store log-in data on the client browser.
+
+

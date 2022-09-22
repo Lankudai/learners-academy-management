@@ -11,7 +11,10 @@
  - Software and tools used
  
  - Flowcart of the Application
- - 
+ 
+ - Core Concept used in the Project
+ 
+ - How to run an Application
 
 
 

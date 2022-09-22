@@ -3,7 +3,8 @@
 # Aim of Project:
   This project aims to design and develop a backend administrative portal for the Learner’s Academy using Java EE technologies. The goal of this project is to apply servlet, jsp and JDBC concepts.
   
-#Product Backlog:
+# Product Backlog:
+
 1.Create database and tables.
 2.Connect the database to the project.
 3.Create models classes.

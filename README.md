@@ -118,7 +118,7 @@
 
 • Now run program on a server.
 
-• To login you must enter admin for both username and password.
+• To login you must enter username and password as admin.
 
 
 # Screenshots (OUTPUT):

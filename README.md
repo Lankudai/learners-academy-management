@@ -1,11 +1,19 @@
 # Amdinistrative Portal for learners-academy-management
 
 # TABLE OF CONTENTS:
+
  - Aim of Project
+ 
  - About the Project
+
  - Product Backlog
+ 
  - Software and tools used
+ 
  - Flowcart of the Application
+ - 
+
+
 
 # Aim of Project:
   This project aims to design and develop a backend administrative portal for the Learner’s Academy using Java EE technologies. The goal of this project is to apply servlet, jsp and JDBC concepts.

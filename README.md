@@ -16,6 +16,8 @@
  
  - How to run the Application
 
+  - Screenshots (OUTPUT)
+
 
 
 # Aim of Project:
@@ -113,3 +115,6 @@
 • Now run program on a server.
 
 • To login you must enter admin for both username and password.
+
+
+# Screenshots (OUTPUT)
